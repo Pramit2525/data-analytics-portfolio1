@@ -6,7 +6,6 @@ Using SQL, the dataset was explored and aggregated to extract KPIs such as total
 
 The project demonstrates strong analytical capability, business‑focused storytelling, and modern data‑tool proficiency — suitable for real‑world retail analytics, business intelligence, and decision‑support applications.
 
-⭐ Portfolio‑Ready README Description (You can paste this directly)
 📊 Retail Sales Analysis — Complete Data Analytics Workflow
 This project showcases an end‑to‑end retail analytics solution built using SQL, Python, Power BI, and Excel. It transforms raw transactional data into actionable business insights through structured analysis, KPI extraction, and interactive dashboarding.
 
