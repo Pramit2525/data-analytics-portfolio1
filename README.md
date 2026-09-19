@@ -21,6 +21,7 @@ Compare sales channel effectiveness
 
 Build a professional dashboard for leadership decision‑making
 
+
 🛠️ Tools & Technologies
 SQL — Data aggregation, KPI extraction
 
@@ -29,6 +30,7 @@ Python (Pandas, Matplotlib, Seaborn) — Cleaning, EDA, trend analysis
 Power BI — Interactive dashboard
 
 Excel — Dataset review and validation
+
 
 📈 Key Insights Delivered
 Regional revenue leaders and underperforming markets
@@ -41,18 +43,26 @@ High‑value customer segments and top customers
 
 Sales channel contribution to total revenue
 
+
 📁 Repository Structure
+
 Code
 ├── Documentation/
 │   ├── Executive Summary.docx
 │   ├── AI Prompt Log.docx
+
 ├── SQL/
 │   ├── SQL Query.docx
+
 ├── Python/
 │   ├── pyanaProject1.ipynb
+
 ├── PowerBI/
 │   ├── Sales Dashboard.pbix
-├── dat_academy_retail_sales.csv
+
 └── README.md
+
+
 🎯 Outcome
 This project demonstrates practical business analytics skills, technical proficiency across multiple tools, and the ability to communicate insights clearly through visual storytelling.
+
