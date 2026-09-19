@@ -1,80 +1,58 @@
-# Data Analytics Portfolio
-
-This repository contains my complete submission package for the Retail Sales Analysis project.  
-It demonstrates end‑to‑end data analytics capability using SQL, Python, Power BI, and Excel.
-
----
-
 Retail Sales Analysis — End‑to‑End Data Analytics Project
 
-This project delivers a complete analytics workflow using SQL, Python, and Power BI.
-Starting from raw retail sales data, the analysis covers data cleaning, KPI extraction, trend analysis, and dashboard development.
-The final deliverables include a Power BI dashboard, SQL query documentation, Python notebook, and an executive summary highlighting actionable insights.
+This project delivers a complete analytics workflow using SQL, Python, Power BI, and Excel to analyze 10,000 retail transactions across regions, product categories, customer segments, and sales channels. The analysis focuses on identifying revenue drivers, profitability patterns, customer value, and operational performance.
 
-Key outcomes include:
+Using SQL, the dataset was explored and aggregated to extract KPIs such as total revenue, total profit, and total orders. Python was used for data cleaning, feature engineering, exploratory analysis, and trend visualization. Power BI brings the insights together in an interactive dashboard that highlights regional performance, category profitability, monthly sales trends, and customer segment value.
 
-Identified top‑performing regions and product categories
+The project demonstrates strong analytical capability, business‑focused storytelling, and modern data‑tool proficiency — suitable for real‑world retail analytics, business intelligence, and decision‑support applications.
 
-Highlighted monthly revenue trends and seasonal patterns
+⭐ Portfolio‑Ready README Description (You can paste this directly)
+📊 Retail Sales Analysis — Complete Data Analytics Workflow
+This project showcases an end‑to‑end retail analytics solution built using SQL, Python, Power BI, and Excel. It transforms raw transactional data into actionable business insights through structured analysis, KPI extraction, and interactive dashboarding.
 
-Developed KPIs for revenue, profit, and quantity sold
+🔍 Project Objectives
+Analyze revenue performance across regions and countries
 
-Created a dynamic dashboard for business decision‑making
+Evaluate profitability by product category
 
-Delivered a concise executive summary for stakeholders
+Identify high‑value customer segments
 
-## 📦 Submission Package
+Compare sales channel effectiveness
 
-- **SQL Query.docx**  
-  SQL queries used to extract KPIs, sales metrics, and dataset transformations.
+Build a professional dashboard for leadership decision‑making
 
-- **pyanaProject1.ipynb**  
-  Python notebook for data cleaning, exploratory data analysis, and KPI validation.
+🛠️ Tools & Technologies
+SQL — Data aggregation, KPI extraction
 
-- **Sales Dashboard.pbix**  
-  Interactive Power BI dashboard visualizing key insights, trends, and performance metrics.
+Python (Pandas, Matplotlib, Seaborn) — Cleaning, EDA, trend analysis
 
-- **Executive Summary.docx**  
-  Business‑focused summary highlighting insights, recommendations, and data‑driven decisions.
+Power BI — Interactive dashboard
 
-- **AI Prompt Log.docx**  
-  Documentation of AI‑assisted prompts used during analysis and dashboard creation.
+Excel — Dataset review and validation
 
-- **dat_academy_retail_sales.csv**  
-  Dataset used for SQL, Python, and Power BI analysis.
+📈 Key Insights Delivered
+Regional revenue leaders and underperforming markets
 
----
+Most profitable product categories
 
-## 📊 Project Overview
+Monthly sales trends and seasonal patterns
 
-The Retail Sales Analysis project explores sales performance across regions, categories, and time periods.  
-It includes:
+High‑value customer segments and top customers
 
-- KPI development (Revenue, Profit, Quantity Sold)
-- Regional and category performance analysis
-- Monthly and yearly trend analysis
-- Customer segmentation insights
-- Data cleaning and transformation using Python
-- SQL‑based KPI extraction
-- Power BI dashboard development
+Sales channel contribution to total revenue
 
----
-
-## 🛠 Tools & Technologies
-
-- **Python** (Pandas, NumPy, Matplotlib)
-- **SQL** (PostgreSQL)
-- **Power BI**
-- **Excel**
-- **Jupyter Notebook**
-
----
-
-## 🎯 Key Skills Demonstrated
-
-- Data cleaning & preprocessing  
-- Exploratory data analysis  
-- SQL querying & KPI extraction  
-- Data modeling  
-- Dashboard design & storytelling  
-- Executive reporting  
+📁 Repository Structure
+Code
+├── Documentation/
+│   ├── Executive Summary.docx
+│   ├── AI Prompt Log.docx
+├── SQL/
+│   ├── SQL Query.docx
+├── Python/
+│   ├── pyanaProject1.ipynb
+├── PowerBI/
+│   ├── Sales Dashboard.pbix
+├── dat_academy_retail_sales.csv
+└── README.md
+🎯 Outcome
+This project demonstrates practical business analytics skills, technical proficiency across multiple tools, and the ability to communicate insights clearly through visual storytelling.
