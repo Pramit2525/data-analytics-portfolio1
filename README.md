@@ -5,6 +5,24 @@ It demonstrates end‑to‑end data analytics capability using SQL, Python, Powe
 
 ---
 
+Retail Sales Analysis — End‑to‑End Data Analytics Project
+
+This project delivers a complete analytics workflow using SQL, Python, and Power BI.
+Starting from raw retail sales data, the analysis covers data cleaning, KPI extraction, trend analysis, and dashboard development.
+The final deliverables include a Power BI dashboard, SQL query documentation, Python notebook, and an executive summary highlighting actionable insights.
+
+Key outcomes include:
+
+Identified top‑performing regions and product categories
+
+Highlighted monthly revenue trends and seasonal patterns
+
+Developed KPIs for revenue, profit, and quantity sold
+
+Created a dynamic dashboard for business decision‑making
+
+Delivered a concise executive summary for stakeholders
+
 ## 📦 Submission Package
 
 - **SQL Query.docx**  
